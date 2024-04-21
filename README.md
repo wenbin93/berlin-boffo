@@ -2,7 +2,7 @@
 Public repo for submitting answers to berlin.
 
 ## Task 1
-Pull the latest docker image. What is the size of the image?
+Pull the latest docker image for `pyx7b/berlin` from dockerhub. What is the size of the image?
 
 ## Task 2
 What port is the image exposing?
