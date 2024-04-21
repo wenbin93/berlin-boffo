@@ -18,3 +18,11 @@ Execute `lessons`, what is the lesson?
 
 ## Task 6
 Do a vulnerability scan on the container, what did you find?
+
+## Task 7
+Perform the following steps to submit your answer:
+1. Create a new branch
+2. Use `vi` to edit the `result.yml` with your answers
+3. Push the update
+4. Perform a pull request
+
